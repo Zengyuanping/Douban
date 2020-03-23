@@ -1,0 +1,6 @@
+page{
+  /* background: #e5e5e5; */
+}
+text{
+  font-family: MicroSoft yahei;
+}
